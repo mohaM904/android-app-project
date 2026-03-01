@@ -1,0 +1,1 @@
+Daily Quote Inspirer App ProjectA minimalist mobile app that delivers one uplifting quote per day to boost user motivation. Users swipe for new quotes from a curated collection, mark favorites for a personal list, and share directly to social media.
